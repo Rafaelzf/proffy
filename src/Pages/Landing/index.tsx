@@ -25,8 +25,8 @@ const Landing = () => {
                     </a>
 
                     <a href="#" className="give-classes">
-                        <img src={giveClassIcons} alt="Plataforma de estudo" />
-                        Estudar
+                        <img src={giveClassIcons} alt="Dar aulas" />
+                        Dar aulas
                     </a>
                 </div>
 
